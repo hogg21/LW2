@@ -1,0 +1,15 @@
+D:\LW 2\bin\Debug\net7.0\LW 2.exe
+D:\LW 2\bin\Debug\net7.0\LW 2.deps.json
+D:\LW 2\bin\Debug\net7.0\LW 2.runtimeconfig.json
+D:\LW 2\bin\Debug\net7.0\LW 2.dll
+D:\LW 2\bin\Debug\net7.0\LW 2.pdb
+D:\LW 2\obj\Debug\net7.0\LW 2.csproj.AssemblyReference.cache
+D:\LW 2\obj\Debug\net7.0\LW 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LW 2\obj\Debug\net7.0\LW 2.AssemblyInfoInputs.cache
+D:\LW 2\obj\Debug\net7.0\LW 2.AssemblyInfo.cs
+D:\LW 2\obj\Debug\net7.0\LW 2.csproj.CoreCompileInputs.cache
+D:\LW 2\obj\Debug\net7.0\LW 2.dll
+D:\LW 2\obj\Debug\net7.0\refint\LW 2.dll
+D:\LW 2\obj\Debug\net7.0\LW 2.pdb
+D:\LW 2\obj\Debug\net7.0\LW 2.genruntimeconfig.cache
+D:\LW 2\obj\Debug\net7.0\ref\LW 2.dll
