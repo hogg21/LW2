@@ -5,8 +5,29 @@
         protected string _name { get; set; }
         protected string _email { get; set; }
         protected string _password { get; set; }
-        public void SignIn(string password, string name, string email)
+
+        private void button_registration() {
+            User user = new User();
+            if(this._email == "hhhhh@gmail.com" && this._name == "Denys" && this._password == "123123") {
+                user.SignIn();
+                user.checkTasks();
+            }
+        }
+
+        // Перевірка чи є користувач у БД системи.
+        private void button_signup() {
+            User user = new User();
+            bool regUser = false;
+
+            if(regUser == true) {
+                user.SignUp("Denys", "123123");
+            } else {
+                user.SignIn();
+            } 
+        }
+        public void SignIn()
         {
+            string email, name, password;
             Console.WriteLine("Введіть дані для реєстрації");
             email = _email;
             name = _name;
@@ -25,7 +46,7 @@
             if (name != _name || password != _password)
             {
                 Console.WriteLine("Введені невірні дані, спробуйте знову!");
-                SignIn("123123", "Denys", "d.invas@gmail.com");
+                SignIn();
             }
             else
             {
